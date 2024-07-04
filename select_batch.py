@@ -3,7 +3,7 @@ import glob
 from qgis.core import QgsProject, QgsExpression, QgsFeatureRequest, QgsVectorLayer, QgsVectorFileWriter,QgsExpressionContextScope
 
 # caminho dos arquivos shapefile
-path = 'C:/Users/Aluga.com/Downloads/DETER'
+path = 'C:/Users/Gustavo/Downloads/DETER'
 
 # nome do campo e valor do atributo que você deseja selecionar
 attribute_field = 'SATELLITE'
